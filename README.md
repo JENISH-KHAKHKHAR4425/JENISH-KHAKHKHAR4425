@@ -106,21 +106,12 @@ const jenish = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JENISH-KHAKHKHAR4425&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💼 Currently Open To
-
-![Internships](https://img.shields.io/badge/🎯_Internships-Rajkot_%26_Ahmedabad-6C63FF?style=for-the-badge)
-![Freelance](https://img.shields.io/badge/💻_Freelance-Web_Projects-00D9FF?style=for-the-badge)
-![Graduating](https://img.shields.io/badge/🎓_Graduating-2027-FF6B6B?style=for-the-badge)
 
 <br/>
 
